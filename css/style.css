@@ -1,0 +1,37 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.container{
+    width:80%;
+    margin:auto;
+    text-align: center;
+}
+.cont-card{
+    width: 60%;
+    margin:auto;
+}
+.top-title{
+    padding-bottom: 10px;
+}
+.row{
+    
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #ed8a08;
+}
+button{
+    border: 0;
+    font-size: 25px;
+    background-color: 0;
+    color: #ed8a08;
+}
+h3{
+    color:#ed8a08;
+   
+}
+p{
+    color: #999;
+}
